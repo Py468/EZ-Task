@@ -8,9 +8,6 @@ A Streamlit-powered application using Google Gemini AI for:
 
 ---
 
-## 🌐 Live Demo
-
-https://genai-assistant-by-anmol.streamlit.app
 
 ## 🚀 Features
 
